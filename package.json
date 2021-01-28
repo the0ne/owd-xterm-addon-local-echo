@@ -1,5 +1,5 @@
 {
-  "name": "@fikrikarim/local-echo",
+  "name": "xterm-addon-owd-local-echo",
   "version": "0.4.1",
   "description": "A local echo controller for xterm.js",
   "main": "index.js",

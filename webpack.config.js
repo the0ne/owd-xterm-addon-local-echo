@@ -21,5 +21,9 @@ module.exports = {
   stats: {
     colors: true
   },
-  devtool: "source-map"
+  devtool: "source-map",
+  node: {
+    child_process: "empty",
+    fs: "empty"
+  }
 };
